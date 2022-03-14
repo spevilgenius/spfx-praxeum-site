@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-praxeum-site-client-side-solution",
+    "id": "424f0e1e-9488-48b9-a3dc-9c9fd0e3af26",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": ""
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-praxeum-site description"
+      },
+      "longDescription": {
+        "default": "spfx-praxeum-site description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-praxeum-site Feature",
+        "description": "The feature that activates elements of the spfx-praxeum-site solution.",
+        "id": "012fb1c5-1449-40c7-a372-3c268776fbab",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-praxeum-site.sppkg"
+  }
+}
